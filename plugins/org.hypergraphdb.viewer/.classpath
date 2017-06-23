@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="jars/com-nerius-math-xform.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/freehep-base.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/freehep-graphics2d.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/freehep-graphicsio-gif.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/freehep-graphicsio-pdf.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/freehep-graphicsio-ps.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/freehep-graphicsio-svg.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/freehep-graphicsio-swf.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/freehep-graphicsio.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/l2fprod-common-sheet.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/org-netbeans-swing-outline.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/piccolo.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/piccolox.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
